@@ -8,6 +8,15 @@ namespace finalPetProject
 {
     internal class Program
     {
+        struct Animal
+    {
+        public string ID;
+        public string species;
+        public int age;
+        public string physicalDescription;
+        public string personalityDescription;
+        public string name;
+    }
         static void Main(string[] args)
         {
 

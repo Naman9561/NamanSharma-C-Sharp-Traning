@@ -8,14 +8,22 @@ namespace finalPetProject
 {
     internal class Program
     {
+        struct Animal
+        {
+            public string ID;
+            public string species;
+            public int age;
+            public string physicalDescription;
+            public string personalityDescription;
+            public string name;
+        }
         static void Main(string[] args)
         {
-
             Animal[] ourAnimals = new Animal[10];
 
             string readResult;
             string menuSelection = "";
-            //
+
             while (menuSelection != "exit")
             {
                 Console.Clear();
@@ -95,7 +103,7 @@ namespace finalPetProject
                             while (ourAnimals[i].age == 0)
                             {
                                 Console.Write($"Enter an age for ID #: {ourAnimals[i].ID}: ");
-                                string? ageInput = Console.ReadLine();
+                                string ageInput = Console.ReadLine();
                                 if (int.TryParse(ageInput, out int age))
                                 {
                                     ourAnimals[i].age = age;
@@ -110,7 +118,7 @@ namespace finalPetProject
                             while (string.IsNullOrWhiteSpace(ourAnimals[i].physicalDescription))
                             {
                                 Console.Write($"Enter a physical description for ID #: {ourAnimals[i].ID} (size, color, gender, weight, housebroken): ");
-                                string? descInput = Console.ReadLine();
+                                string descInput = Console.ReadLine();
                                 if (!string.IsNullOrWhiteSpace(descInput))
                                 {
                                     ourAnimals[i].physicalDescription = descInput;
@@ -147,7 +155,7 @@ namespace finalPetProject
                             while (string.IsNullOrWhiteSpace(ourAnimals[i].name))
                             {
                                 Console.Write($"Enter a nickname for ID #: {ourAnimals[i].ID}: ");
-                                string? nameInput = Console.ReadLine();
+                                string nameInput = Console.ReadLine();
                                 if (!string.IsNullOrWhiteSpace(nameInput))
                                 {
                                     ourAnimals[i].name = nameInput;
@@ -162,7 +170,7 @@ namespace finalPetProject
                             while (string.IsNullOrWhiteSpace(ourAnimals[i].personalityDescription))
                             {
                                 Console.Write($"Enter a personality description for ID #: {ourAnimals[i].ID} (likes or dislikes, tricks, energy level): ");
-                                string? personalityInput = Console.ReadLine();
+                                string personalityInput = Console.ReadLine();
                                 if (!string.IsNullOrWhiteSpace(personalityInput))
                                 {
                                     ourAnimals[i].personalityDescription = personalityInput;

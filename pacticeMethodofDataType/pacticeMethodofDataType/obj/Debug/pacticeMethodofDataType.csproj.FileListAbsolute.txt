@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\pacticeMethodofDataType\pacticeMethodofDataType\bin\Debug\pacticeMethodofDataType.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\pacticeMethodofDataType\pacticeMethodofDataType\bin\Debug\pacticeMethodofDataType.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\pacticeMethodofDataType\pacticeMethodofDataType\bin\Debug\pacticeMethodofDataType.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\pacticeMethodofDataType\pacticeMethodofDataType\obj\Debug\pacticeMethodofDataType.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\pacticeMethodofDataType\pacticeMethodofDataType\obj\Debug\pacticeMethodofDataType.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\pacticeMethodofDataType\pacticeMethodofDataType\obj\Debug\pacticeMethodofDataType.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\pacticeMethodofDataType\pacticeMethodofDataType\obj\Debug\pacticeMethodofDataType.pdb

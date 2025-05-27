@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceChallengeOfDataType\practiceChallengeOfDataType\bin\Debug\practiceChallengeOfDataType.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceChallengeOfDataType\practiceChallengeOfDataType\bin\Debug\practiceChallengeOfDataType.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceChallengeOfDataType\practiceChallengeOfDataType\bin\Debug\practiceChallengeOfDataType.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceChallengeOfDataType\practiceChallengeOfDataType\obj\Debug\practiceChallengeOfDataType.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceChallengeOfDataType\practiceChallengeOfDataType\obj\Debug\practiceChallengeOfDataType.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceChallengeOfDataType\practiceChallengeOfDataType\obj\Debug\practiceChallengeOfDataType.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceChallengeOfDataType\practiceChallengeOfDataType\obj\Debug\practiceChallengeOfDataType.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceSort&ReverseMethod\practiceSort&ReverseMethod\obj\Debug\practiceSort&ReverseMethod.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceSort&ReverseMethod\practiceSort&ReverseMethod\obj\Debug\practiceSort&ReverseMethod.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceSort&ReverseMethod\practiceSort&ReverseMethod\bin\Debug\practiceSort&ReverseMethod.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceSort&ReverseMethod\practiceSort&ReverseMethod\bin\Debug\practiceSort&ReverseMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceSort&ReverseMethod\practiceSort&ReverseMethod\bin\Debug\practiceSort&ReverseMethod.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceSort&ReverseMethod\practiceSort&ReverseMethod\obj\Debug\practiceSort&ReverseMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceSort&ReverseMethod\practiceSort&ReverseMethod\obj\Debug\practiceSort&ReverseMethod.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\dataTypeValues\dataTypeValues\bin\Debug\dataTypeValues.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\dataTypeValues\dataTypeValues\bin\Debug\dataTypeValues.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\dataTypeValues\dataTypeValues\bin\Debug\dataTypeValues.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\dataTypeValues\dataTypeValues\obj\Debug\dataTypeValues.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\dataTypeValues\dataTypeValues\obj\Debug\dataTypeValues.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\dataTypeValues\dataTypeValues\obj\Debug\dataTypeValues.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\dataTypeValues\dataTypeValues\obj\Debug\dataTypeValues.pdb

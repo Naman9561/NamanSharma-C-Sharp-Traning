@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\reverseStringSentence\reverseStringSentence\bin\Debug\reverseStringSentence.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\reverseStringSentence\reverseStringSentence\bin\Debug\reverseStringSentence.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\reverseStringSentence\reverseStringSentence\bin\Debug\reverseStringSentence.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\reverseStringSentence\reverseStringSentence\obj\Debug\reverseStringSentence.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\reverseStringSentence\reverseStringSentence\obj\Debug\reverseStringSentence.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\reverseStringSentence\reverseStringSentence\obj\Debug\reverseStringSentence.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\reverseStringSentence\reverseStringSentence\obj\Debug\reverseStringSentence.pdb

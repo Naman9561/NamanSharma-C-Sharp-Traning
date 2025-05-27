@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\task4GuidedProject\task4GuidedProject\bin\Debug\task4GuidedProject.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\task4GuidedProject\task4GuidedProject\bin\Debug\task4GuidedProject.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\task4GuidedProject\task4GuidedProject\bin\Debug\task4GuidedProject.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\task4GuidedProject\task4GuidedProject\obj\Debug\task4GuidedProject.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\task4GuidedProject\task4GuidedProject\obj\Debug\task4GuidedProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\task4GuidedProject\task4GuidedProject\obj\Debug\task4GuidedProject.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\task4GuidedProject\task4GuidedProject\obj\Debug\task4GuidedProject.pdb

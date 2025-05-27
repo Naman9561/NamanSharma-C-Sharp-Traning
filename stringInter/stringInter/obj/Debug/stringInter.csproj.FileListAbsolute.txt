@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\stringInter\stringInter\bin\Debug\stringInter.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\stringInter\stringInter\bin\Debug\stringInter.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\stringInter\stringInter\bin\Debug\stringInter.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\stringInter\stringInter\obj\Debug\stringInter.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\stringInter\stringInter\obj\Debug\stringInter.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\stringInter\stringInter\obj\Debug\stringInter.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\stringInter\stringInter\obj\Debug\stringInter.pdb

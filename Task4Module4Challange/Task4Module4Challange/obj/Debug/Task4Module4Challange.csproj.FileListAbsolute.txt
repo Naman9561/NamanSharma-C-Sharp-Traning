@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\Task4Module4Challange\Task4Module4Challange\bin\Debug\Task4Module4Challange.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\Task4Module4Challange\Task4Module4Challange\bin\Debug\Task4Module4Challange.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\Task4Module4Challange\Task4Module4Challange\bin\Debug\Task4Module4Challange.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\Task4Module4Challange\Task4Module4Challange\obj\Debug\Task4Module4Challange.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\Task4Module4Challange\Task4Module4Challange\obj\Debug\Task4Module4Challange.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\Task4Module4Challange\Task4Module4Challange\obj\Debug\Task4Module4Challange.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\Task4Module4Challange\Task4Module4Challange\obj\Debug\Task4Module4Challange.pdb

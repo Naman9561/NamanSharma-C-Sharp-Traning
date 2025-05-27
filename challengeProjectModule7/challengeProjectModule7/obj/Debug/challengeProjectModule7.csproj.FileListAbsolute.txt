@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\challengeProjectModule7\challengeProjectModule7\bin\Debug\challengeProjectModule7.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\challengeProjectModule7\challengeProjectModule7\bin\Debug\challengeProjectModule7.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\challengeProjectModule7\challengeProjectModule7\bin\Debug\challengeProjectModule7.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\challengeProjectModule7\challengeProjectModule7\obj\Debug\challengeProjectModule7.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\challengeProjectModule7\challengeProjectModule7\obj\Debug\challengeProjectModule7.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\challengeProjectModule7\challengeProjectModule7\obj\Debug\challengeProjectModule7.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\challengeProjectModule7\challengeProjectModule7\obj\Debug\challengeProjectModule7.pdb

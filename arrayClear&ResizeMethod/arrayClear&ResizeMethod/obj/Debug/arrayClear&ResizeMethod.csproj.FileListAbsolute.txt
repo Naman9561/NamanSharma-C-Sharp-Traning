@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayClear&ResizeMethod\arrayClear&ResizeMethod\bin\Debug\arrayClear&ResizeMethod.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayClear&ResizeMethod\arrayClear&ResizeMethod\bin\Debug\arrayClear&ResizeMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayClear&ResizeMethod\arrayClear&ResizeMethod\bin\Debug\arrayClear&ResizeMethod.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayClear&ResizeMethod\arrayClear&ResizeMethod\obj\Debug\arrayClear&ResizeMethod.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayClear&ResizeMethod\arrayClear&ResizeMethod\obj\Debug\arrayClear&ResizeMethod.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayClear&ResizeMethod\arrayClear&ResizeMethod\obj\Debug\arrayClear&ResizeMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayClear&ResizeMethod\arrayClear&ResizeMethod\obj\Debug\arrayClear&ResizeMethod.pdb

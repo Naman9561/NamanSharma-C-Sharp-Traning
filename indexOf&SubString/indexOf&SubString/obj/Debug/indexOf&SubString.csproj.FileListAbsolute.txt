@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\indexOf&SubString\indexOf&SubString\bin\Debug\indexOf&SubString.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\indexOf&SubString\indexOf&SubString\bin\Debug\indexOf&SubString.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\indexOf&SubString\indexOf&SubString\bin\Debug\indexOf&SubString.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\indexOf&SubString\indexOf&SubString\obj\Debug\indexOf&SubString.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\indexOf&SubString\indexOf&SubString\obj\Debug\indexOf&SubString.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\indexOf&SubString\indexOf&SubString\obj\Debug\indexOf&SubString.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\indexOf&SubString\indexOf&SubString\obj\Debug\indexOf&SubString.pdb

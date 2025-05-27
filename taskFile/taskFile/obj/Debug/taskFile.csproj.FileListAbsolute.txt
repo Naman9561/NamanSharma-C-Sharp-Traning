@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFile\taskFile\bin\Debug\taskFile.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFile\taskFile\bin\Debug\taskFile.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFile\taskFile\bin\Debug\taskFile.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFile\taskFile\obj\Debug\taskFile.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFile\taskFile\obj\Debug\taskFile.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFile\taskFile\obj\Debug\taskFile.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFile\taskFile\obj\Debug\taskFile.pdb

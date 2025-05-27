@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathematicalOperation\mathematicalOperation\bin\Debug\mathematicalOperation.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathematicalOperation\mathematicalOperation\bin\Debug\mathematicalOperation.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathematicalOperation\mathematicalOperation\bin\Debug\mathematicalOperation.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathematicalOperation\mathematicalOperation\obj\Debug\mathematicalOperation.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathematicalOperation\mathematicalOperation\obj\Debug\mathematicalOperation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathematicalOperation\mathematicalOperation\obj\Debug\mathematicalOperation.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathematicalOperation\mathematicalOperation\obj\Debug\mathematicalOperation.pdb

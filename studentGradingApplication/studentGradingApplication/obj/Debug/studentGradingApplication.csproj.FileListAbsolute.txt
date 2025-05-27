@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGradingApplication\studentGradingApplication\bin\Debug\studentGradingApplication.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGradingApplication\studentGradingApplication\bin\Debug\studentGradingApplication.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGradingApplication\studentGradingApplication\bin\Debug\studentGradingApplication.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGradingApplication\studentGradingApplication\obj\Debug\studentGradingApplication.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGradingApplication\studentGradingApplication\obj\Debug\studentGradingApplication.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGradingApplication\studentGradingApplication\obj\Debug\studentGradingApplication.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGradingApplication\studentGradingApplication\obj\Debug\studentGradingApplication.pdb

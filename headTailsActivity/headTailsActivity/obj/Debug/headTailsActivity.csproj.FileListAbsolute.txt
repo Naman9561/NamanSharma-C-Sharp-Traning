@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\headTailsActivity\headTailsActivity\bin\Debug\headTailsActivity.exe.config
+C:\Users\ACER\source\repos\headTailsActivity\headTailsActivity\bin\Debug\headTailsActivity.exe
+C:\Users\ACER\source\repos\headTailsActivity\headTailsActivity\bin\Debug\headTailsActivity.pdb
+C:\Users\ACER\source\repos\headTailsActivity\headTailsActivity\obj\Debug\headTailsActivity.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\headTailsActivity\headTailsActivity\obj\Debug\headTailsActivity.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\headTailsActivity\headTailsActivity\obj\Debug\headTailsActivity.exe
+C:\Users\ACER\source\repos\headTailsActivity\headTailsActivity\obj\Debug\headTailsActivity.pdb

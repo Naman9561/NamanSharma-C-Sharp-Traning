@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\expressions\expressions\bin\Debug\expressions.exe.config
+C:\Users\ACER\source\repos\expressions\expressions\bin\Debug\expressions.exe
+C:\Users\ACER\source\repos\expressions\expressions\bin\Debug\expressions.pdb
+C:\Users\ACER\source\repos\expressions\expressions\obj\Debug\expressions.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\expressions\expressions\obj\Debug\expressions.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\expressions\expressions\obj\Debug\expressions.exe
+C:\Users\ACER\source\repos\expressions\expressions\obj\Debug\expressions.pdb

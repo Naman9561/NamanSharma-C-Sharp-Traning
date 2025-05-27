@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\incermentDecrement\incermentDecrement\bin\Debug\incermentDecrement.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\incermentDecrement\incermentDecrement\bin\Debug\incermentDecrement.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\incermentDecrement\incermentDecrement\bin\Debug\incermentDecrement.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\incermentDecrement\incermentDecrement\obj\Debug\incermentDecrement.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\incermentDecrement\incermentDecrement\obj\Debug\incermentDecrement.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\incermentDecrement\incermentDecrement\obj\Debug\incermentDecrement.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\incermentDecrement\incermentDecrement\obj\Debug\incermentDecrement.pdb

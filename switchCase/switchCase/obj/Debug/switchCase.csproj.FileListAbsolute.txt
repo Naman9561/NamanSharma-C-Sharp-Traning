@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\switchCase\switchCase\bin\Debug\switchCase.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\switchCase\switchCase\bin\Debug\switchCase.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\switchCase\switchCase\bin\Debug\switchCase.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\switchCase\switchCase\obj\Debug\switchCase.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\switchCase\switchCase\obj\Debug\switchCase.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\switchCase\switchCase\obj\Debug\switchCase.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\switchCase\switchCase\obj\Debug\switchCase.pdb

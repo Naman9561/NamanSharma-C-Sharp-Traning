@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\formatString\formatString\bin\Debug\formatString.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\formatString\formatString\bin\Debug\formatString.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\formatString\formatString\bin\Debug\formatString.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\formatString\formatString\obj\Debug\formatString.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\formatString\formatString\obj\Debug\formatString.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\formatString\formatString\obj\Debug\formatString.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\formatString\formatString\obj\Debug\formatString.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\doWhileProject1\doWhileProject1\obj\Debug\doWhileProject1.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\doWhileProject1\doWhileProject1\obj\Debug\doWhileProject1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\doWhileProject1\doWhileProject1\bin\Debug\doWhileProject1.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\doWhileProject1\doWhileProject1\bin\Debug\doWhileProject1.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\doWhileProject1\doWhileProject1\bin\Debug\doWhileProject1.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\doWhileProject1\doWhileProject1\obj\Debug\doWhileProject1.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\doWhileProject1\doWhileProject1\obj\Debug\doWhileProject1.pdb

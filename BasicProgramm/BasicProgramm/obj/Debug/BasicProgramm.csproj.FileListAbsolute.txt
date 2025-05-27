@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\BasicProgramm\BasicProgramm\bin\Debug\BasicProgramm.exe.config
+C:\Users\ACER\source\repos\BasicProgramm\BasicProgramm\bin\Debug\BasicProgramm.exe
+C:\Users\ACER\source\repos\BasicProgramm\BasicProgramm\bin\Debug\BasicProgramm.pdb
+C:\Users\ACER\source\repos\BasicProgramm\BasicProgramm\obj\Debug\BasicProgramm.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\BasicProgramm\BasicProgramm\obj\Debug\BasicProgramm.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BasicProgramm\BasicProgramm\obj\Debug\BasicProgramm.exe
+C:\Users\ACER\source\repos\BasicProgramm\BasicProgramm\obj\Debug\BasicProgramm.pdb

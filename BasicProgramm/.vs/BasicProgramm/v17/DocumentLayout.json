@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\BasicProgramm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D75074-323C-4CD8-9E80-CA26A48127E2}|BasicProgramm\\BasicProgramm.csproj|c:\\users\\acer\\source\\repos\\basicprogramm\\basicprogramm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D75074-323C-4CD8-9E80-CA26A48127E2}|BasicProgramm\\BasicProgramm.csproj|solutionrelative:basicprogramm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BasicProgramm\\BasicProgramm\\Program.cs",
+              "RelativeDocumentMoniker": "BasicProgramm\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BasicProgramm\\BasicProgramm\\Program.cs",
+              "RelativeToolTip": "BasicProgramm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:18:42.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

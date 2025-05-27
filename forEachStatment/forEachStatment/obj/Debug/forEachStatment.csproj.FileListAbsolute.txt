@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forEachStatment\forEachStatment\bin\Debug\forEachStatment.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forEachStatment\forEachStatment\bin\Debug\forEachStatment.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forEachStatment\forEachStatment\bin\Debug\forEachStatment.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forEachStatment\forEachStatment\obj\Debug\forEachStatment.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forEachStatment\forEachStatment\obj\Debug\forEachStatment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forEachStatment\forEachStatment\obj\Debug\forEachStatment.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forEachStatment\forEachStatment\obj\Debug\forEachStatment.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\arrayChallange\arrayChallange\bin\Debug\arrayChallange.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\arrayChallange\arrayChallange\bin\Debug\arrayChallange.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\arrayChallange\arrayChallange\bin\Debug\arrayChallange.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\arrayChallange\arrayChallange\obj\Debug\arrayChallange.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\arrayChallange\arrayChallange\obj\Debug\arrayChallange.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\arrayChallange\arrayChallange\obj\Debug\arrayChallange.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\arrayChallange\arrayChallange\obj\Debug\arrayChallange.pdb

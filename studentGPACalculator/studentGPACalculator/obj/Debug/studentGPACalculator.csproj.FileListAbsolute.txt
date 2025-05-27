@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGPACalculator\studentGPACalculator\bin\Debug\studentGPACalculator.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGPACalculator\studentGPACalculator\bin\Debug\studentGPACalculator.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGPACalculator\studentGPACalculator\bin\Debug\studentGPACalculator.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGPACalculator\studentGPACalculator\obj\Debug\studentGPACalculator.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGPACalculator\studentGPACalculator\obj\Debug\studentGPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGPACalculator\studentGPACalculator\obj\Debug\studentGPACalculator.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\studentGPACalculator\studentGPACalculator\obj\Debug\studentGPACalculator.pdb

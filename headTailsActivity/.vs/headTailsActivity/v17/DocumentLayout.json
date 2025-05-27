@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\headTailsActivity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5B5D9-B40C-4219-BDED-F9A3BFF2E66B}|headTailsActivity\\headTailsActivity.csproj|c:\\users\\acer\\source\\repos\\headtailsactivity\\headtailsactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5B5D9-B40C-4219-BDED-F9A3BFF2E66B}|headTailsActivity\\headTailsActivity.csproj|solutionrelative:headtailsactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\headTailsActivity\\headTailsActivity\\Program.cs",
+              "RelativeDocumentMoniker": "headTailsActivity\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\headTailsActivity\\headTailsActivity\\Program.cs",
+              "RelativeToolTip": "headTailsActivity\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:02:52.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

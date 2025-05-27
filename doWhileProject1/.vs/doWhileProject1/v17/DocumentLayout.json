@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\C Sharp\\doWhileProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744B58BF-E2A6-4B14-B493-7B6D759D81B1}|doWhileProject1\\doWhileProject1.csproj|c:\\users\\acer\\onedrive\\desktop\\c sharp\\dowhileproject1\\dowhileproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744B58BF-E2A6-4B14-B493-7B6D759D81B1}|doWhileProject1\\doWhileProject1.csproj|solutionrelative:dowhileproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\C Sharp\\doWhileProject1\\doWhileProject1\\Program.cs",
+              "RelativeDocumentMoniker": "doWhileProject1\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\C Sharp\\doWhileProject1\\doWhileProject1\\Program.cs",
+              "RelativeToolTip": "doWhileProject1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:05:51.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

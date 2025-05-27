@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoppChallenge\forLoppChallenge\bin\Debug\forLoppChallenge.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoppChallenge\forLoppChallenge\bin\Debug\forLoppChallenge.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoppChallenge\forLoppChallenge\bin\Debug\forLoppChallenge.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoppChallenge\forLoppChallenge\obj\Debug\forLoppChallenge.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoppChallenge\forLoppChallenge\obj\Debug\forLoppChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoppChallenge\forLoppChallenge\obj\Debug\forLoppChallenge.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoppChallenge\forLoppChallenge\obj\Debug\forLoppChallenge.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\varibleScop\varibleScop\bin\Debug\varibleScop.exe.config
+C:\Users\ACER\source\repos\varibleScop\varibleScop\bin\Debug\varibleScop.exe
+C:\Users\ACER\source\repos\varibleScop\varibleScop\bin\Debug\varibleScop.pdb
+C:\Users\ACER\source\repos\varibleScop\varibleScop\obj\Debug\varibleScop.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\varibleScop\varibleScop\obj\Debug\varibleScop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\varibleScop\varibleScop\obj\Debug\varibleScop.exe
+C:\Users\ACER\source\repos\varibleScop\varibleScop\obj\Debug\varibleScop.pdb

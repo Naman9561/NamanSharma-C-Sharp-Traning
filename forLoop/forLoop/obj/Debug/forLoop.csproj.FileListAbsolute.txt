@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoop\forLoop\bin\Debug\forLoop.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoop\forLoop\bin\Debug\forLoop.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoop\forLoop\bin\Debug\forLoop.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoop\forLoop\obj\Debug\forLoop.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoop\forLoop\obj\Debug\forLoop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoop\forLoop\obj\Debug\forLoop.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\forLoop\forLoop\obj\Debug\forLoop.pdb

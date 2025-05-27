@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFourProject\taskFourProject\obj\Debug\taskFourProject.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFourProject\taskFourProject\obj\Debug\taskFourProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFourProject\taskFourProject\bin\Debug\taskFourProject.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFourProject\taskFourProject\bin\Debug\taskFourProject.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFourProject\taskFourProject\bin\Debug\taskFourProject.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFourProject\taskFourProject\obj\Debug\taskFourProject.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskFourProject\taskFourProject\obj\Debug\taskFourProject.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\array\array\bin\Debug\array.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\array\array\bin\Debug\array.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\array\array\bin\Debug\array.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\array\array\obj\Debug\array.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\array\array\obj\Debug\array.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\array\array\obj\Debug\array.pdb

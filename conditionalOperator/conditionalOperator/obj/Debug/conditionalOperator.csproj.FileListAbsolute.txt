@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\conditionalOperator\conditionalOperator\bin\Debug\conditionalOperator.exe.config
+C:\Users\ACER\source\repos\conditionalOperator\conditionalOperator\bin\Debug\conditionalOperator.exe
+C:\Users\ACER\source\repos\conditionalOperator\conditionalOperator\bin\Debug\conditionalOperator.pdb
+C:\Users\ACER\source\repos\conditionalOperator\conditionalOperator\obj\Debug\conditionalOperator.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\conditionalOperator\conditionalOperator\obj\Debug\conditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\conditionalOperator\conditionalOperator\obj\Debug\conditionalOperator.exe
+C:\Users\ACER\source\repos\conditionalOperator\conditionalOperator\obj\Debug\conditionalOperator.pdb

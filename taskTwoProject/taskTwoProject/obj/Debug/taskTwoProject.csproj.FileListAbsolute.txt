@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskTwoProject\taskTwoProject\bin\Debug\taskTwoProject.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskTwoProject\taskTwoProject\bin\Debug\taskTwoProject.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskTwoProject\taskTwoProject\bin\Debug\taskTwoProject.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskTwoProject\taskTwoProject\obj\Debug\taskTwoProject.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskTwoProject\taskTwoProject\obj\Debug\taskTwoProject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskTwoProject\taskTwoProject\obj\Debug\taskTwoProject.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\taskTwoProject\taskTwoProject\obj\Debug\taskTwoProject.pdb

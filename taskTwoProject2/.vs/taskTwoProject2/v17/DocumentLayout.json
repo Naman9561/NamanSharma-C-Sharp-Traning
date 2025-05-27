@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\C Sharp\\taskTwoProject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A58AC127-6C5F-46AB-99E8-C74DC0279506}|taskTwoProject2\\taskTwoProject2.csproj|c:\\users\\acer\\onedrive\\desktop\\c sharp\\tasktwoproject2\\tasktwoproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58AC127-6C5F-46AB-99E8-C74DC0279506}|taskTwoProject2\\taskTwoProject2.csproj|solutionrelative:tasktwoproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\C Sharp\\taskTwoProject2\\taskTwoProject2\\Program.cs",
+              "RelativeDocumentMoniker": "taskTwoProject2\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\C Sharp\\taskTwoProject2\\taskTwoProject2\\Program.cs*",
+              "RelativeToolTip": "taskTwoProject2\\Program.cs*",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:16:58.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

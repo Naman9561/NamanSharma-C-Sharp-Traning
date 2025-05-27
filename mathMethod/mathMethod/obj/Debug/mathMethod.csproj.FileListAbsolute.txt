@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathMethod\mathMethod\bin\Debug\mathMethod.exe.config
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathMethod\mathMethod\bin\Debug\mathMethod.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathMethod\mathMethod\bin\Debug\mathMethod.pdb
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathMethod\mathMethod\obj\Debug\mathMethod.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathMethod\mathMethod\obj\Debug\mathMethod.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathMethod\mathMethod\obj\Debug\mathMethod.exe
+C:\Users\ACER\OneDrive\Desktop\C Sharp\mathMethod\mathMethod\obj\Debug\mathMethod.pdb

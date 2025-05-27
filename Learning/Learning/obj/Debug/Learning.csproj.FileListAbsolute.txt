@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Learning\Learning\bin\Debug\Learning.exe.config
+C:\Users\ACER\source\repos\Learning\Learning\bin\Debug\Learning.exe
+C:\Users\ACER\source\repos\Learning\Learning\bin\Debug\Learning.pdb
+C:\Users\ACER\source\repos\Learning\Learning\obj\Debug\Learning.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Learning\Learning\obj\Debug\Learning.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Learning\Learning\obj\Debug\Learning.exe
+C:\Users\ACER\source\repos\Learning\Learning\obj\Debug\Learning.pdb

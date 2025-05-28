@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryingExceptions\tryingExceptions\bin\Debug\tryingExceptions.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryingExceptions\tryingExceptions\bin\Debug\tryingExceptions.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryingExceptions\tryingExceptions\bin\Debug\tryingExceptions.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryingExceptions\tryingExceptions\obj\Debug\tryingExceptions.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryingExceptions\tryingExceptions\obj\Debug\tryingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryingExceptions\tryingExceptions\obj\Debug\tryingExceptions.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryingExceptions\tryingExceptions\obj\Debug\tryingExceptions.pdb

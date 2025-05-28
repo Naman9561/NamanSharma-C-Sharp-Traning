@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creating&ThrowingExceptions\creating&ThrowingExceptions\bin\Debug\creating&ThrowingExceptions.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creating&ThrowingExceptions\creating&ThrowingExceptions\bin\Debug\creating&ThrowingExceptions.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creating&ThrowingExceptions\creating&ThrowingExceptions\bin\Debug\creating&ThrowingExceptions.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creating&ThrowingExceptions\creating&ThrowingExceptions\obj\Debug\creating&ThrowingExceptions.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creating&ThrowingExceptions\creating&ThrowingExceptions\obj\Debug\creating&ThrowingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creating&ThrowingExceptions\creating&ThrowingExceptions\obj\Debug\creating&ThrowingExceptions.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creating&ThrowingExceptions\creating&ThrowingExceptions\obj\Debug\creating&ThrowingExceptions.pdb

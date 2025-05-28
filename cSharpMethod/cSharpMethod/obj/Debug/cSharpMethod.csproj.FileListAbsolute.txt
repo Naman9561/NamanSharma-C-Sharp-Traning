@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\cSharpMethod\cSharpMethod\bin\Debug\cSharpMethod.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\cSharpMethod\cSharpMethod\bin\Debug\cSharpMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\cSharpMethod\cSharpMethod\bin\Debug\cSharpMethod.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\cSharpMethod\cSharpMethod\obj\Debug\cSharpMethod.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\cSharpMethod\cSharpMethod\obj\Debug\cSharpMethod.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\cSharpMethod\cSharpMethod\obj\Debug\cSharpMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\cSharpMethod\cSharpMethod\obj\Debug\cSharpMethod.pdb

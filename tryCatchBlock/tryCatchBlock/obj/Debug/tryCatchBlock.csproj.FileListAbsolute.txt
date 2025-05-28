@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryCatchBlock\tryCatchBlock\bin\Debug\tryCatchBlock.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryCatchBlock\tryCatchBlock\bin\Debug\tryCatchBlock.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryCatchBlock\tryCatchBlock\bin\Debug\tryCatchBlock.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryCatchBlock\tryCatchBlock\obj\Debug\tryCatchBlock.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryCatchBlock\tryCatchBlock\obj\Debug\tryCatchBlock.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryCatchBlock\tryCatchBlock\obj\Debug\tryCatchBlock.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\tryCatchBlock\tryCatchBlock\obj\Debug\tryCatchBlock.pdb

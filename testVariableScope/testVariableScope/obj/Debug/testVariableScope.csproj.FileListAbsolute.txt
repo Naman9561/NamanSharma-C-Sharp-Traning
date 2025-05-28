@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\testVariableScope\testVariableScope\bin\Debug\testVariableScope.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\testVariableScope\testVariableScope\bin\Debug\testVariableScope.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\testVariableScope\testVariableScope\bin\Debug\testVariableScope.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\testVariableScope\testVariableScope\obj\Debug\testVariableScope.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\testVariableScope\testVariableScope\obj\Debug\testVariableScope.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\testVariableScope\testVariableScope\obj\Debug\testVariableScope.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\testVariableScope\testVariableScope\obj\Debug\testVariableScope.pdb

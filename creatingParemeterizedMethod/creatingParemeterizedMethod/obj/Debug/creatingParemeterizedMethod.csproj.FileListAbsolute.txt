@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creatingParemeterizedMethod\creatingParemeterizedMethod\bin\Debug\creatingParemeterizedMethod.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creatingParemeterizedMethod\creatingParemeterizedMethod\bin\Debug\creatingParemeterizedMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creatingParemeterizedMethod\creatingParemeterizedMethod\bin\Debug\creatingParemeterizedMethod.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creatingParemeterizedMethod\creatingParemeterizedMethod\obj\Debug\creatingParemeterizedMethod.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creatingParemeterizedMethod\creatingParemeterizedMethod\obj\Debug\creatingParemeterizedMethod.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creatingParemeterizedMethod\creatingParemeterizedMethod\obj\Debug\creatingParemeterizedMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\creatingParemeterizedMethod\creatingParemeterizedMethod\obj\Debug\creatingParemeterizedMethod.pdb

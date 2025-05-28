@@ -9,26 +9,38 @@ namespace module5FinalChallange
 {
     internal class Program
     {
-        static int movementDelay = 200;
-        static char playerChar = '@';
-        static char foodAppearance = '*';
-        static int playerX = 10;
-        static int playerY = 10;
+        static int windowWidth = Console.WindowWidth;
+        static int windowHeight = Console.WindowHeight;
+
+        static int playerX;
+        static int playerY;
+
         static int foodX;
         static int foodY;
-        static bool frozen = false;
-        static int lastWindowWidth = Console.WindowWidth;
-        static int lastWindowHeight = Console.WindowHeight;
+
+        // Player appearances for different states:
+        // Normal '@', Freeze "(X_X)", Speed Boost "(^-^)"
+        static string[] playerStates = { "@", "(X_X)", "(^-^)", "-" };
+        // Food appearances - corresponding to player states after consumption
+        static char[] foodTypes = { '*', '#', 'S', 'F' };
+
+        static string currentPlayerAppearance;
+        static char currentFoodAppearance;
+
+        static int movementDelay = 200;
+        static Random rand = new Random();
+
+        // Freeze control
+        static bool isFrozen = false;
+        static int freezeDurationMs = 2000; // 2 seconds freeze
+        static DateTime freezeEndTime;
 
         static void Main(string[] args)
         {
             Console.CursorVisible = false;
-            GenerateFood();
+            InitializeGame();
 
             bool running = true;
-            bool exitOnInvalidInput = true;
-            bool speedBoostEnabled = true;
-
             while (running)
             {
                 if (WindowResized())
@@ -45,103 +57,215 @@ namespace module5FinalChallange
                 }
 
                 ConsoleKeyInfo keyInfo = Console.ReadKey(true);
-                char keyChar = char.ToLower(keyInfo.KeyChar);
+                char key = char.ToLower(keyInfo.KeyChar);
 
+                // Check freeze before moving
                 if (ShouldFreezePlayer())
                 {
                     FreezeMovement();
-                    continue;
+                    continue; // Skip this iteration, no move allowed
                 }
 
-                running = MovePlayer(keyChar, exitOnInvalidInput, speedBoostEnabled);
+                // Pass true to exit on invalid input, enable speed boost check
+                running = MovePlayer(key, exitOnInvalidInput: true, speedBoostEnabled: true);
                 if (!running) break;
 
                 if (IsFoodConsumed())
                 {
-                    ChangePlayerAppearance(foodAppearance);
-                    GenerateFood();
+                    HandleFoodConsumption();
                 }
 
                 Thread.Sleep(movementDelay);
             }
         }
 
+        static void InitializeGame()
+        {
+            playerX = windowWidth / 2;
+            playerY = windowHeight / 2;
+            currentPlayerAppearance = playerStates[0]; // Normal by default
+
+            Console.Clear();
+            DrawAtPosition(playerX, playerY, currentPlayerAppearance);
+
+            GenerateFood();
+        }
+
         static bool WindowResized()
         {
-            if (Console.WindowWidth != lastWindowWidth || Console.WindowHeight != lastWindowHeight)
+            if (Console.WindowWidth != windowWidth || Console.WindowHeight != windowHeight)
             {
-                lastWindowWidth = Console.WindowWidth;
-                lastWindowHeight = Console.WindowHeight;
+                windowWidth = Console.WindowWidth;
+                windowHeight = Console.WindowHeight;
                 return true;
             }
             return false;
         }
 
-        static bool ShouldFreezePlayer()
+        static void GenerateFood()
         {
-            // Simulate freeze condition (e.g., random chance)
-            return frozen;
+            do
+            {
+                foodX = rand.Next(0, windowWidth);
+                foodY = rand.Next(0, windowHeight);
+            } while (foodX == playerX && foodY == playerY);
+
+            currentFoodAppearance = foodTypes[rand.Next(foodTypes.Length)];
+
+            DrawAtPosition(foodX, foodY, currentFoodAppearance);
         }
 
-        static void FreezeMovement()
+        static void DrawAtPosition(int x, int y, string s)
         {
-            Thread.Sleep(1000); // Freeze for 1 second
+            if (x >= 0 && x < windowWidth && y >= 0 && y < windowHeight)
+            {
+                Console.SetCursorPosition(x, y);
+                Console.Write(s);
+            }
         }
 
-        static bool MovePlayer(char key, bool exitOnInvalidInput, bool speedBoostEnabled)
+        // Overload for single char draw
+        static void DrawAtPosition(int x, int y, char c)
         {
-            int dx = 0, dy = 0;
+            DrawAtPosition(x, y, c.ToString());
+        }
+
+        static bool MovePlayer(char key, bool exitOnInvalidInput = false, bool speedBoostEnabled = false)
+        {
+            const string validKeys = "wasd";
+
+            if (exitOnInvalidInput && !validKeys.Contains(key))
+            {
+                Console.WriteLine("Unsupported key pressed. Exiting...");
+                return false;
+            }
+
+            // Erase old player position
+            ClearPlayerFromPosition();
+
+            int speed = 1;
+
+            if (speedBoostEnabled && ShouldSpeedBoost())
+            {
+                // Speed boost = 3 units left/right movement
+                speed = 3;
+            }
 
             switch (key)
             {
-                case 'w': dy = -1; break;
-                case 's': dy = 1; break;
-                case 'a': dx = -1; break;
-                case 'd': dx = 1; break;
-                case 'q': return false; // Quit
+                case 'w':
+                    playerY = Math.Max(0, playerY - speed);
+                    break;
+                case 'a':
+                    playerX = Math.Max(0, playerX - speed);
+                    break;
+                case 's':
+                    playerY = Math.Min(windowHeight - 1, playerY + speed);
+                    break;
+                case 'd':
+                    playerX = Math.Min(windowWidth - 1, playerX + speed);
+                    break;
                 default:
-                    if (exitOnInvalidInput)
-                        return false;
-                    else
+                    if (!exitOnInvalidInput)
                         return true;
+                    return false;
             }
 
-            if (speedBoostEnabled)
-                movementDelay = 100;
-            else
-                movementDelay = 200;
-
-            playerX = Math.Max(0, Math.Min(Console.WindowWidth - 1, playerX + dx));
-            playerY = Math.Max(0, Math.Min(Console.WindowHeight - 1, playerY + dy));
-
-            Console.Clear();
-            Console.SetCursorPosition(playerX, playerY);
-            Console.Write(playerChar);
-
-            Console.SetCursorPosition(foodX, foodY);
-            Console.Write(foodAppearance);
+            // Redraw player at new position
+            DrawAtPosition(playerX, playerY, currentPlayerAppearance);
 
             return true;
         }
 
         static bool IsFoodConsumed()
         {
+            // For multi-char player appearance, check coordinates carefully.
+            // Simplify: if player occupies (playerX .. playerX+len-1) and playerY == foodY
+            // But to keep simple, only check playerX == foodX and playerY == foodY
+            // You can enhance collision detection if needed.
+
             return playerX == foodX && playerY == foodY;
         }
 
-        static void ChangePlayerAppearance(char newAppearance)
+        static void HandleFoodConsumption()
         {
-            playerChar = newAppearance;
+            ChangePlayerAppearance(currentFoodAppearance);
+
+            // If player is frozen, set freeze end time
+            if (ShouldFreezePlayer())
+            {
+                isFrozen = true;
+                freezeEndTime = DateTime.Now.AddMilliseconds(freezeDurationMs);
+            }
+
+            GenerateFood();
         }
 
-        static void GenerateFood()
+        static void ChangePlayerAppearance(char food)
         {
-            Random rand = new Random();
-            foodX = rand.Next(0, Console.WindowWidth);
-            foodY = rand.Next(0, Console.WindowHeight);
+            // Map food char to player state
+            // '*' normal '@'
+            // '#' freeze "(X_X)"
+            // 'S' speed boost "(^-^)"
+            // 'F' normal '-'
 
-            Console.SetCursorPosition(foodX, foodY);
-            Console.Write(foodAppearance);
+            switch (food)
+            {
+                case '*': currentPlayerAppearance = playerStates[0]; break;    // Normal '@'
+                case '#': currentPlayerAppearance = playerStates[1]; break;    // Freeze "(X_X)"
+                case 'S': currentPlayerAppearance = playerStates[2]; break;    // Speed boost "(^-^)"
+                case 'F': currentPlayerAppearance = playerStates[3]; break;    // Normal '-'
+                default: currentPlayerAppearance = playerStates[0]; break;
+            }
+        }
+
+        static bool ShouldFreezePlayer()
+        {
+            if (currentPlayerAppearance == playerStates[1]) // "(X_X)"
+            {
+                // Check if still frozen
+                if (isFrozen)
+                {
+                    if (DateTime.Now < freezeEndTime)
+                        return true;
+
+                    // Freeze expired
+                    isFrozen = false;
+                    // Reset to normal appearance after freeze ends
+                    currentPlayerAppearance = playerStates[0];
+                }
+            }
+            return false;
+        }
+
+        static void FreezeMovement()
+        {
+            // Just wait briefly to simulate freeze, actual blocking happens in main loop
+            Thread.Sleep(100);
+        }
+
+        static bool ShouldSpeedBoost()
+        {
+            return currentPlayerAppearance == playerStates[2]; // "(^-^)"
+        }
+
+        static void ClearPlayerFromPosition()
+        {
+            // Clear previous player appearance, clear all chars if multi-char appearance
+
+            // Because some appearances are multi-char strings, clear all those chars
+            int length = currentPlayerAppearance.Length;
+
+            for (int i = 0; i < length; i++)
+            {
+                int clearX = playerX + i;
+                if (clearX >= 0 && clearX < windowWidth && playerY >= 0 && playerY < windowHeight)
+                {
+                    Console.SetCursorPosition(clearX, playerY);
+                    Console.Write(' ');
+                }
+            }
         }
     }
-}
+    }
+

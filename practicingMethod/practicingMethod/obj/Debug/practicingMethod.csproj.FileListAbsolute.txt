@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practicingMethod\practicingMethod\bin\Debug\practicingMethod.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practicingMethod\practicingMethod\bin\Debug\practicingMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practicingMethod\practicingMethod\bin\Debug\practicingMethod.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practicingMethod\practicingMethod\obj\Debug\practicingMethod.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practicingMethod\practicingMethod\obj\Debug\practicingMethod.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practicingMethod\practicingMethod\obj\Debug\practicingMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practicingMethod\practicingMethod\obj\Debug\practicingMethod.pdb

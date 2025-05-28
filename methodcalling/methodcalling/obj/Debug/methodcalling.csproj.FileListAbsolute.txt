@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\methodcalling\methodcalling\bin\Debug\methodcalling.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\methodcalling\methodcalling\bin\Debug\methodcalling.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\methodcalling\methodcalling\bin\Debug\methodcalling.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\methodcalling\methodcalling\obj\Debug\methodcalling.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\methodcalling\methodcalling\obj\Debug\methodcalling.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\methodcalling\methodcalling\obj\Debug\methodcalling.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\methodcalling\methodcalling\obj\Debug\methodcalling.pdb

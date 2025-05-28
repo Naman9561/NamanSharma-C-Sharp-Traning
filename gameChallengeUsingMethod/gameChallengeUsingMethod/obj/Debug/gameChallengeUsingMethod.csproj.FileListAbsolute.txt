@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\gameChallengeUsingMethod\gameChallengeUsingMethod\bin\Debug\gameChallengeUsingMethod.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\gameChallengeUsingMethod\gameChallengeUsingMethod\bin\Debug\gameChallengeUsingMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\gameChallengeUsingMethod\gameChallengeUsingMethod\bin\Debug\gameChallengeUsingMethod.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\gameChallengeUsingMethod\gameChallengeUsingMethod\obj\Debug\gameChallengeUsingMethod.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\gameChallengeUsingMethod\gameChallengeUsingMethod\obj\Debug\gameChallengeUsingMethod.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\gameChallengeUsingMethod\gameChallengeUsingMethod\obj\Debug\gameChallengeUsingMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\gameChallengeUsingMethod\gameChallengeUsingMethod\obj\Debug\gameChallengeUsingMethod.pdb

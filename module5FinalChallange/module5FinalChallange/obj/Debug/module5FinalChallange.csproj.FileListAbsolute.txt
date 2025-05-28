@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5FinalChallange\module5FinalChallange\bin\Debug\module5FinalChallange.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5FinalChallange\module5FinalChallange\bin\Debug\module5FinalChallange.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5FinalChallange\module5FinalChallange\bin\Debug\module5FinalChallange.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5FinalChallange\module5FinalChallange\obj\Debug\module5FinalChallange.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5FinalChallange\module5FinalChallange\obj\Debug\module5FinalChallange.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5FinalChallange\module5FinalChallange\obj\Debug\module5FinalChallange.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5FinalChallange\module5FinalChallange\obj\Debug\module5FinalChallange.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module5FinalChallange", "module5FinalChallange\module5FinalChallange.csproj", "{5FED41E7-52B4-4A72-A729-E1EDD9C3E390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FED41E7-52B4-4A72-A729-E1EDD9C3E390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FED41E7-52B4-4A72-A729-E1EDD9C3E390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FED41E7-52B4-4A72-A729-E1EDD9C3E390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FED41E7-52B4-4A72-A729-E1EDD9C3E390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B079942-C271-4BE8-AC20-9F3E478878B7}
+	EndGlobalSection
+EndGlobal

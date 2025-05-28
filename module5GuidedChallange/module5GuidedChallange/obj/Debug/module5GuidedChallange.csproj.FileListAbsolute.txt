@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5GuidedChallange\module5GuidedChallange\bin\Debug\module5GuidedChallange.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5GuidedChallange\module5GuidedChallange\bin\Debug\module5GuidedChallange.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5GuidedChallange\module5GuidedChallange\bin\Debug\module5GuidedChallange.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5GuidedChallange\module5GuidedChallange\obj\Debug\module5GuidedChallange.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5GuidedChallange\module5GuidedChallange\obj\Debug\module5GuidedChallange.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5GuidedChallange\module5GuidedChallange\obj\Debug\module5GuidedChallange.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\module5GuidedChallange\module5GuidedChallange\obj\Debug\module5GuidedChallange.pdb

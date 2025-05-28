@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayReturnTypeMethod\arrayReturnTypeMethod\bin\Debug\arrayReturnTypeMethod.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayReturnTypeMethod\arrayReturnTypeMethod\bin\Debug\arrayReturnTypeMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayReturnTypeMethod\arrayReturnTypeMethod\bin\Debug\arrayReturnTypeMethod.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayReturnTypeMethod\arrayReturnTypeMethod\obj\Debug\arrayReturnTypeMethod.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayReturnTypeMethod\arrayReturnTypeMethod\obj\Debug\arrayReturnTypeMethod.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayReturnTypeMethod\arrayReturnTypeMethod\obj\Debug\arrayReturnTypeMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\arrayReturnTypeMethod\arrayReturnTypeMethod\obj\Debug\arrayReturnTypeMethod.pdb

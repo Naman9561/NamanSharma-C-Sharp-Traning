@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceReturnTypeMethod\practiceReturnTypeMethod\bin\Debug\practiceReturnTypeMethod.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceReturnTypeMethod\practiceReturnTypeMethod\bin\Debug\practiceReturnTypeMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceReturnTypeMethod\practiceReturnTypeMethod\bin\Debug\practiceReturnTypeMethod.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceReturnTypeMethod\practiceReturnTypeMethod\obj\Debug\practiceReturnTypeMethod.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceReturnTypeMethod\practiceReturnTypeMethod\obj\Debug\practiceReturnTypeMethod.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceReturnTypeMethod\practiceReturnTypeMethod\obj\Debug\practiceReturnTypeMethod.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\practiceReturnTypeMethod\practiceReturnTypeMethod\obj\Debug\practiceReturnTypeMethod.pdb

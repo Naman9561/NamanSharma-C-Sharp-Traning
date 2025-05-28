@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\passByValue&passByRefrence\passByValue&passByRefrence\bin\Debug\passByValue&passByRefrence.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\passByValue&passByRefrence\passByValue&passByRefrence\bin\Debug\passByValue&passByRefrence.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\passByValue&passByRefrence\passByValue&passByRefrence\bin\Debug\passByValue&passByRefrence.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\passByValue&passByRefrence\passByValue&passByRefrence\obj\Debug\passByValue&passByRefrence.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\passByValue&passByRefrence\passByValue&passByRefrence\obj\Debug\passByValue&passByRefrence.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\passByValue&passByRefrence\passByValue&passByRefrence\obj\Debug\passByValue&passByRefrence.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\passByValue&passByRefrence\passByValue&passByRefrence\obj\Debug\passByValue&passByRefrence.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\displayEmailChallenge\displayEmailChallenge\bin\Debug\displayEmailChallenge.exe.config
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\displayEmailChallenge\displayEmailChallenge\bin\Debug\displayEmailChallenge.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\displayEmailChallenge\displayEmailChallenge\bin\Debug\displayEmailChallenge.pdb
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\displayEmailChallenge\displayEmailChallenge\obj\Debug\displayEmailChallenge.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\displayEmailChallenge\displayEmailChallenge\obj\Debug\displayEmailChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\displayEmailChallenge\displayEmailChallenge\obj\Debug\displayEmailChallenge.exe
+C:\Users\ACER\source\repos\NamanSharma-C-Sharp-Traning\displayEmailChallenge\displayEmailChallenge\obj\Debug\displayEmailChallenge.pdb

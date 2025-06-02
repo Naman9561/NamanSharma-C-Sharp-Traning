@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\BankAccount\BankAccount\obj\Debug\BankAccount.pdb

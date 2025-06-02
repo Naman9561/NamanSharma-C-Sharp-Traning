@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Section2\Section2\bin\Debug\Section2.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Section2\Section2\bin\Debug\Section2.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Section2\Section2\bin\Debug\Section2.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Section2\Section2\obj\Debug\Section2.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Section2\Section2\obj\Debug\Section2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Section2\Section2\obj\Debug\Section2.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Section2\Section2\obj\Debug\Section2.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\PatternMatchingIsStatment\PatternMatchingIsStatment\bin\Debug\PatternMatchingIsStatment.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\PatternMatchingIsStatment\PatternMatchingIsStatment\bin\Debug\PatternMatchingIsStatment.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\PatternMatchingIsStatment\PatternMatchingIsStatment\bin\Debug\PatternMatchingIsStatment.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\PatternMatchingIsStatment\PatternMatchingIsStatment\obj\Debug\PatternMatchingIsStatment.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\PatternMatchingIsStatment\PatternMatchingIsStatment\obj\Debug\PatternMatchingIsStatment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\PatternMatchingIsStatment\PatternMatchingIsStatment\obj\Debug\PatternMatchingIsStatment.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\PatternMatchingIsStatment\PatternMatchingIsStatment\obj\Debug\PatternMatchingIsStatment.pdb

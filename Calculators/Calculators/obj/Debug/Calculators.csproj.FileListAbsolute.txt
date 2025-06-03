@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Calculators\Calculators\obj\Debug\Calculators.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Calculators\Calculators\obj\Debug\Calculators.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Calculators\Calculators\bin\Debug\Calculators.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Calculators\Calculators\bin\Debug\Calculators.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Calculators\Calculators\bin\Debug\Calculators.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Calculators\Calculators\obj\Debug\Calculators.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\Calculators\Calculators\obj\Debug\Calculators.pdb

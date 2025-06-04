@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExampleDiscard\ExampleDiscard\bin\Debug\ExampleDiscard.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExampleDiscard\ExampleDiscard\bin\Debug\ExampleDiscard.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExampleDiscard\ExampleDiscard\bin\Debug\ExampleDiscard.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExampleDiscard\ExampleDiscard\obj\Debug\ExampleDiscard.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExampleDiscard\ExampleDiscard\obj\Debug\ExampleDiscard.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExampleDiscard\ExampleDiscard\obj\Debug\ExampleDiscard.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExampleDiscard\ExampleDiscard\obj\Debug\ExampleDiscard.pdb

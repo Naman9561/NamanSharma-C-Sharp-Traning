@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\RelationalPatterns\RelationalPatterns\bin\Debug\RelationalPatterns.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\RelationalPatterns\RelationalPatterns\bin\Debug\RelationalPatterns.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\RelationalPatterns\RelationalPatterns\bin\Debug\RelationalPatterns.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\RelationalPatterns\RelationalPatterns\obj\Debug\RelationalPatterns.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\RelationalPatterns\RelationalPatterns\obj\Debug\RelationalPatterns.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\RelationalPatterns\RelationalPatterns\obj\Debug\RelationalPatterns.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\RelationalPatterns\RelationalPatterns\obj\Debug\RelationalPatterns.pdb

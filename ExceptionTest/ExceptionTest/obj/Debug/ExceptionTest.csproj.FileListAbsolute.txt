@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.exe.config

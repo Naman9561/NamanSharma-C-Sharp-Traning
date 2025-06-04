@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\UseExceptions\UseExceptions\bin\Debug\UseExceptions.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\UseExceptions\UseExceptions\bin\Debug\UseExceptions.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\UseExceptions\UseExceptions\bin\Debug\UseExceptions.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\UseExceptions\UseExceptions\obj\Debug\UseExceptions.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\UseExceptions\UseExceptions\obj\Debug\UseExceptions.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\UseExceptions\UseExceptions\obj\Debug\UseExceptions.exe
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\UseExceptions\UseExceptions\obj\Debug\UseExceptions.pdb
+C:\Users\ACER\source\repos\C_Sharp_Intermedate\UseExceptions\UseExceptions\obj\Debug\UseExceptions.exe.config

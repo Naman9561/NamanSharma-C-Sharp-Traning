@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsynchronousPractice\AsynchronousPractice\bin\Debug\AsynchronousPractice.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsynchronousPractice\AsynchronousPractice\bin\Debug\AsynchronousPractice.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsynchronousPractice\AsynchronousPractice\bin\Debug\AsynchronousPractice.pdb
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsynchronousPractice\AsynchronousPractice\obj\Debug\AsynchronousPractice.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsynchronousPractice\AsynchronousPractice\obj\Debug\AsynchronousPractice.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsynchronousPractice\AsynchronousPractice\obj\Debug\AsynchronousPractice.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsynchronousPractice\AsynchronousPractice\obj\Debug\AsynchronousPractice.pdb
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsynchronousPractice\AsynchronousPractice\obj\Debug\AsynchronousPractice.exe.config

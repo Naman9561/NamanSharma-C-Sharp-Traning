@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncMethods\AsyncMethods\bin\Debug\AsyncMethods.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncMethods\AsyncMethods\bin\Debug\AsyncMethods.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncMethods\AsyncMethods\bin\Debug\AsyncMethods.pdb
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncMethods\AsyncMethods\obj\Debug\AsyncMethods.pdb

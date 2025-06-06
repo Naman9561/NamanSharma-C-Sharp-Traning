@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelListTask\CancelListTask\bin\Debug\CancelListTask.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelListTask\CancelListTask\bin\Debug\CancelListTask.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelListTask\CancelListTask\bin\Debug\CancelListTask.pdb
+C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelListTask\CancelListTask\obj\Debug\CancelListTask.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelListTask\CancelListTask\obj\Debug\CancelListTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelListTask\CancelListTask\obj\Debug\CancelListTask.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelListTask\CancelListTask\obj\Debug\CancelListTask.pdb

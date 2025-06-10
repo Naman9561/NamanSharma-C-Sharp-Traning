@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EventDelegateSignatures\EventDelegateSignatures\bin\Debug\EventDelegateSignatures.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EventDelegateSignatures\EventDelegateSignatures\bin\Debug\EventDelegateSignatures.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EventDelegateSignatures\EventDelegateSignatures\bin\Debug\EventDelegateSignatures.pdb
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EventDelegateSignatures\EventDelegateSignatures\obj\Debug\EventDelegateSignatures.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EventDelegateSignatures\EventDelegateSignatures\obj\Debug\EventDelegateSignatures.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EventDelegateSignatures\EventDelegateSignatures\obj\Debug\EventDelegateSignatures.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EventDelegateSignatures\EventDelegateSignatures\obj\Debug\EventDelegateSignatures.pdb
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EventDelegateSignatures\EventDelegateSignatures\obj\Debug\EventDelegateSignatures.exe.config

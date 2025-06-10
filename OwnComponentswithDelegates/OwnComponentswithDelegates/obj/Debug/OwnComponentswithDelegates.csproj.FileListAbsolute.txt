@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C_Sharp_Advanced\OwnComponentswithDelegates\OwnComponentswithDelegates\bin\Debug\OwnComponentswithDelegates.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Advanced\OwnComponentswithDelegates\OwnComponentswithDelegates\bin\Debug\OwnComponentswithDelegates.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\OwnComponentswithDelegates\OwnComponentswithDelegates\bin\Debug\OwnComponentswithDelegates.pdb
+C:\Users\ACER\source\repos\C_Sharp_Advanced\OwnComponentswithDelegates\OwnComponentswithDelegates\obj\Debug\OwnComponentswithDelegates.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\OwnComponentswithDelegates\OwnComponentswithDelegates\obj\Debug\OwnComponentswithDelegates.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\OwnComponentswithDelegates\OwnComponentswithDelegates\obj\Debug\OwnComponentswithDelegates.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\OwnComponentswithDelegates\OwnComponentswithDelegates\obj\Debug\OwnComponentswithDelegates.pdb

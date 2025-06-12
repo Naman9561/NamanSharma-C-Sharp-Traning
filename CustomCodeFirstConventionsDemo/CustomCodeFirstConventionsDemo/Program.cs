@@ -13,7 +13,7 @@ namespace CustomCodeFirstConventionsDemo
         {
             using (var db = new ProductContext())
             {
-                db.Database.Initialize(force: true); // Ensure DB creation
+                db.Database.Initialize(force: true); // Ensure DB creation.
 
                 var category = new ProductCategory
                 {

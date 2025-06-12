@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\bin\Debug\EF6CustomConventionExample.exe.config
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\bin\Debug\EF6CustomConventionExample.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\bin\Debug\EF6CustomConventionExample.pdb
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\obj\Debug\EF6CustomConventionExample.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\obj\Debug\EF6CustomConventionExample.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\obj\Debug\EF6Custo.33F6AB69.Up2Date
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\obj\Debug\EF6CustomConventionExample.exe
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\obj\Debug\EF6CustomConventionExample.pdb
+C:\Users\ACER\source\repos\C_Sharp_Advanced\EF6CustomConventionExample\EF6CustomConventionExample\obj\Debug\EF6CustomConventionExample.exe.config

@@ -1,3 +1,0 @@
-10-06-2025 11:26:18	Error	AuthService	Invalid login attempt.
-10-06-2025 11:26:18	Warning	Config	Deprecated setting used.
-10-06-2025 11:26:18	Critical	System	Unhandled exception occurred!

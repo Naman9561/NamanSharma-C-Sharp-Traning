@@ -1,7 +1,0 @@
-C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelTaskAfterSomeTime\CancelTaskAfterSomeTime\bin\Debug\CancelTaskAfterSomeTime.exe.config
-C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelTaskAfterSomeTime\CancelTaskAfterSomeTime\bin\Debug\CancelTaskAfterSomeTime.exe
-C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelTaskAfterSomeTime\CancelTaskAfterSomeTime\bin\Debug\CancelTaskAfterSomeTime.pdb
-C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelTaskAfterSomeTime\CancelTaskAfterSomeTime\obj\Debug\CancelTaskAfterSomeTime.csproj.AssemblyReference.cache
-C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelTaskAfterSomeTime\CancelTaskAfterSomeTime\obj\Debug\CancelTaskAfterSomeTime.csproj.CoreCompileInputs.cache
-C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelTaskAfterSomeTime\CancelTaskAfterSomeTime\obj\Debug\CancelTaskAfterSomeTime.exe
-C:\Users\ACER\source\repos\C_Sharp_Advanced\CancelTaskAfterSomeTime\CancelTaskAfterSomeTime\obj\Debug\CancelTaskAfterSomeTime.pdb

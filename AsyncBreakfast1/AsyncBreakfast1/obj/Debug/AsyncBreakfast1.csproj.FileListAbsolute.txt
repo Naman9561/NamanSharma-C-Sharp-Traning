@@ -1,7 +1,0 @@
-C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncBreakfast1\AsyncBreakfast1\bin\Debug\AsyncBreakfast1.exe.config
-C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncBreakfast1\AsyncBreakfast1\bin\Debug\AsyncBreakfast1.exe
-C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncBreakfast1\AsyncBreakfast1\bin\Debug\AsyncBreakfast1.pdb
-C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncBreakfast1\AsyncBreakfast1\obj\Debug\AsyncBreakfast1.csproj.AssemblyReference.cache
-C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncBreakfast1\AsyncBreakfast1\obj\Debug\AsyncBreakfast1.csproj.CoreCompileInputs.cache
-C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncBreakfast1\AsyncBreakfast1\obj\Debug\AsyncBreakfast1.exe
-C:\Users\ACER\source\repos\C_Sharp_Advanced\AsyncBreakfast1\AsyncBreakfast1\obj\Debug\AsyncBreakfast1.pdb

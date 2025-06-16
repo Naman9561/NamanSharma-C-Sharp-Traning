@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMultipleFromClauses", "UsingMultipleFromClauses\UsingMultipleFromClauses.csproj", "{B7090781-3207-41A3-9BDB-2AB7115DEBC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7090781-3207-41A3-9BDB-2AB7115DEBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7090781-3207-41A3-9BDB-2AB7115DEBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7090781-3207-41A3-9BDB-2AB7115DEBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7090781-3207-41A3-9BDB-2AB7115DEBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA30C4C-2EFF-45CD-93B7-60BD20DC2DFD}
+	EndGlobalSection
+EndGlobal

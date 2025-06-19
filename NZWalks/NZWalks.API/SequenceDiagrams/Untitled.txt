@@ -1,0 +1,95 @@
+@startuml
+actor Client
+participant "RegionsController" as Controller
+participant "IRegionRepository\n(SQLRegionRepository)" as Repository
+participant "NZWalksDbContext" as DbContext
+database "SQL Server" as Database
+participant "AutoMapper" as Mapper
+
+== Get All Regions ==
+Client -> Controller: GET /api/regions
+Controller -> Repository: GetAllRegionsAsync()
+Repository -> DbContext: Regions.ToListAsync()
+DbContext -> Database: SELECT * FROM Regions
+Database --> DbContext: List<Region>
+DbContext --> Repository: List<Region>
+Repository --> Controller: List<Region>
+Controller -> Mapper: Map<List<Region>, List<RegionDto>>
+Mapper --> Controller: List<RegionDto>
+Controller --> Client: 200 OK (List<RegionDto>)
+
+== Get Region By Id ==
+Client -> Controller: GET /api/regions/{id}
+Controller -> Repository: GetRegionByIdAsync(id)
+Repository -> DbContext: Regions.FindAsync(id)
+DbContext -> Database: SELECT * FROM Regions WHERE Id = {id}
+Database --> DbContext: Region or null
+DbContext --> Repository: Region or null
+Repository --> Controller: Region or null
+alt Region found
+    Controller -> Mapper: Map<Region, RegionDto>
+    Mapper --> Controller: RegionDto
+    Controller --> Client: 200 OK (RegionDto)
+else Not found
+    Controller --> Client: 404 NotFound
+end
+
+== Create Region ==
+Client -> Controller: POST /api/regions
+Controller -> Mapper: Map<AddRegionRequestDto, Region>
+Mapper --> Controller: Region
+Controller -> Repository: CreateRegionAsync(region)
+Repository -> DbContext: Regions.AddAsync(region)
+DbContext -> Database: INSERT INTO Regions ...
+DbContext -> DbContext: SaveChangesAsync()
+Database --> DbContext: (new Region with Id)
+DbContext --> Repository: Region
+Repository --> Controller: Region
+Controller -> Mapper: Map<Region, RegionDto>
+Mapper --> Controller: RegionDto
+Controller --> Client: 201 Created (RegionDto)
+
+== Update Region ==
+Client -> Controller: PUT /api/regions/{id}
+Controller -> Mapper: Map<UpdateRegionRequestDto, Region>
+Mapper --> Controller: Region
+Controller -> Repository: UpdateRegionAsync(id, region)
+Repository -> DbContext: Regions.FirstOrDefaultAsync(x => x.Id == id)
+DbContext -> Database: SELECT * FROM Regions WHERE Id = {id}
+Database --> DbContext: Region or null
+DbContext --> Repository: Region or null
+alt Region found
+    Repository -> DbContext: SaveChangesAsync()
+    Database --> DbContext: (update)
+    DbContext --> Repository: Region
+    Repository --> Controller: Region
+    Controller -> Mapper: Map<Region, RegionDto>
+    Mapper --> Controller: RegionDto
+    Controller --> Client: 200 OK (RegionDto)
+else Not found
+    Repository --> Controller: null
+    Controller --> Client: 404 NotFound
+end
+
+== Delete Region ==
+Client -> Controller: DELETE /api/regions/{id}
+Controller -> Repository: DeleteRegionAsync(id)
+Repository -> DbContext: Regions.FirstOrDefaultAsync(x => x.Id == id)
+DbContext -> Database: SELECT * FROM Regions WHERE Id = {id}
+Database --> DbContext: Region or null
+DbContext --> Repository: Region or null
+alt Region found
+    Repository -> DbContext: Regions.Remove(region)
+    DbContext -> DbContext: SaveChangesAsync()
+    Database --> DbContext: (delete)
+    DbContext --> Repository: Region
+    Repository --> Controller: Region
+    Controller -> Mapper: Map<Region, RegionDto>
+    Mapper --> Controller: RegionDto
+    Controller --> Client: 200 OK (RegionDto)
+else Not found
+    Repository --> Controller: null
+    Controller --> Client: 404 NotFound
+end
+
+@enduml
